@@ -7,6 +7,7 @@
 # 运行环境 #
 android5.0及以上
 
+
 # 音频格式 #
 目前用ijkplayer来测试如下音频格式，均可正常播放：aac，amr，ape，flac，m4r，mmf，mp2，mp3，ogg，wav，wma，wv
 
